@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript and React.JS**
 
-- 🌐 Visit my portfolio at **furzdaq.com**
+- 🌐 Visit my portfolio at **www.furzdaq.com**
 
 - 📫 How to reach me **salam@furzdaq.com**
 
