@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **JavaScript and React.JS**
 
+- 🌐 Visit my portfolio at **furzdaq.com**
+
 - 📫 How to reach me **salam@furzdaq.com**
 
 - ⚡ Fun fact **I studied Pre-Medical and Now Studying Arts International Relations and Sociology. Just got crosskilled into Development.**
