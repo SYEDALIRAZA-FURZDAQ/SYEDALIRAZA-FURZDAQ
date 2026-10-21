@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript and React.JS**
 
-- 📫 How to reach me **alisocial100@gmail.com**
+- 📫 How to reach me **salam@furzdaq.com**
 
 - ⚡ Fun fact **I studied Pre-Medical and Now Studying Arts International Relations and Sociology. Just got crosskilled into Development.**
 
